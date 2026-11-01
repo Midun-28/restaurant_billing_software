@@ -62,3 +62,4 @@ backups/surrealdb
 api/.env
 gateway/.env
 payments/.env
+.vercel
