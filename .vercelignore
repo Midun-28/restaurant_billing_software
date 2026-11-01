@@ -1,0 +1,9 @@
+api/
+gateway/
+payments/
+printing/
+tracking-api/
+sync-service/
+migrations/
+docker-compose.yml
+docker-compose.override.yml
